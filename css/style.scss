@@ -26,7 +26,7 @@ link {
   margin-top: 50px;
 }
 
-#img {
+#image {
   display: block;
   max-width: 100%;
   height: auto;
@@ -73,4 +73,9 @@ link {
 }
 
 #tribute-info {
+  font-size: 16px;
+}
+
+#tribute-link {
+  text-decoration: none;
 }
