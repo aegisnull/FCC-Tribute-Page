@@ -7,6 +7,9 @@ link {
   text-decoration: none;
 }
 
+.header {
+}
+
 #title {
   text-align: center;
   font-size: 38px;
@@ -44,6 +47,12 @@ link {
   font-size: 28px;
 }
 
+.timeline__list {
+}
+
+.timeline__item {
+}
+
 .quote__container {
   display: flex;
   justify-content: center;
@@ -51,8 +60,17 @@ link {
   margin-top: 50px;
 }
 
+.quote {
+}
+
+.quote__author {
+}
+
 .invitation {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+#tribute-info {
 }
